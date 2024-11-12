@@ -1,4 +1,4 @@
-# **Projeto IoT com ESP32 e MQTT - Economia de Energia e Energia Sustentável**
+# **Global Solution - Economia de Energia e Energia Sustentável**
 
 ## **Integrantes**
 - Arthur Fellipe Estevão da Silva RM553320
