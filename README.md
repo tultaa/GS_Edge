@@ -1,5 +1,5 @@
 # **Global Solution - Economia de Energia e Energia Sustentável**
-
+- **Código**: Estará nesse repositorio com extensão .ino
 ## **Integrantes**
 - Arthur Fellipe Estevão da Silva RM553320
 - Eduardo Pires Escudero RM556527
@@ -107,6 +107,8 @@ A solução IoT foi projetada com a seguinte arquitetura:
   - \`WiFi.h\` para conexão à internet.
   - \`PubSubClient.h\` para comunicação via MQTT.
   - \`DHT.h\` para leitura de temperatura e umidade.
+
+- **Código**: Estará nesse repositorio com extensão .ino
   
 - **Broker Mosquitto**:
   - **Ubuntu 18.04 ou superior**: Máquina virtual configurada com Mosquitto para gerenciar a comunicação MQTT.
