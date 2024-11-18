@@ -1,5 +1,5 @@
 # **Global Solution - Economia de Energia e Energia Sustentável**
-- **Código**: Estará nesse repositorio com extensão .ino
+- **Código**: Estará nesse repositorio com extensão .ino **(codigo.ino)**
 ## **Integrantes**
 - Arthur Fellipe Estevão da Silva RM553320
 - Eduardo Pires Escudero RM556527
